@@ -23,10 +23,10 @@
       </section>
       <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
-          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/linanxo">
+          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/lianceo">
             <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
-          <a title="LiNan博客" target="_blank" href="https://blog.liliee.cn/">
+          <a title="LiNan博客" target="_blank" href="https://www.lisoe.cn/">
             <img class="w-8" src="@/assets/images/footer/blog.svg" />
           </a>
         </div>
